@@ -1,5 +1,4 @@
 ## English ++
-.----------------------------------------------------------------------------------------------------.
 |     Name      |           Description            |                     Example                     |
 |---------------|----------------------------------|-------------------------------------------------|
 | make-variable | Creates a variable.              | make-variable test = "Hello World!";            |
@@ -12,7 +11,6 @@
 | else          | Incase statement                 | else {CODE}                                     |
 | infinite-loop | An loop that is infinite         | infinite-loop {CODE}                            |
 | loop          | Creates a loop for # times       | loop AMOUNT {CODE}                              |
-'----------------------------------------------------------------------------------------------------'
 
 ## What is this?
 
